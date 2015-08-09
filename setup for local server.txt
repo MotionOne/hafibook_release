@@ -1,0 +1,9 @@
+== 목적 ==
+squirrel.windows에서 요구하는 remote release server를 로컬에서 제공하기 위한 설정임
+
+
+== 설치 및 서버실행 ==
+이 파일이 있는 폴더에서 웹서버를 띄울 것.
+
+> npm install -g locally
+> locally -p 80
